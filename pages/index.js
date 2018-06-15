@@ -1,6 +1,5 @@
 // This is the Link API
 import Link from "next/link";
-import { InputProps } from "./about";
 
 const Index = () => (
   <div>
